@@ -1,10 +1,10 @@
 {
   "name": "callback-chain-resolver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Calls the callbacks one after another.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "xo && ava"
   },
   "repository": {
     "type": "git",
@@ -21,5 +21,12 @@
   "bugs": {
     "url": "https://github.com/IAmAnubhavSaini/callback-chain-resolver/issues"
   },
-  "homepage": "https://github.com/IAmAnubhavSaini/callback-chain-resolver#readme"
+  "homepage": "https://github.com/IAmAnubhavSaini/callback-chain-resolver#readme",
+  "xo": {
+      "space": 4
+  },
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  }
 }
