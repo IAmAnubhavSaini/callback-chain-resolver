@@ -1,0 +1,25 @@
+{
+  "name": "callback-chain-resolver",
+  "version": "1.0.0",
+  "description": "Calls the callbacks one after another.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IAmAnubhavSaini/callback-chain-resolver.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "callback",
+    "chain"
+  ],
+  "author": "Anubhav Saini <IAmAnubhavSaini@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IAmAnubhavSaini/callback-chain-resolver/issues"
+  },
+  "homepage": "https://github.com/IAmAnubhavSaini/callback-chain-resolver#readme"
+}
