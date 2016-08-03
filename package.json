@@ -1,6 +1,6 @@
 {
   "name": "callback-chain-resolver",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Calls the callbacks one after another.",
   "main": "index.js",
   "scripts": {
