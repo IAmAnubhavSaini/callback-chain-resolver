@@ -1,5 +1,11 @@
 # Changelog
 
+## Version 12
+
+- Introduce eslint as devDependency
+- Introduce .eslintrc.js
+- Remove .eslintrcgs
+
 ## Version 11
 
 - Recreated package.json, package-lock.json to resolve parsing errors.
