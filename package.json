@@ -1,14 +1,14 @@
 {
   "name": "callback-chain-resolver",
-  "version": "1.0.2",
+  "version": "10.0.0",
   "description": "Calls the callbacks one after another.",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "test": "xo && ava"
+    "test": "jasmine"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IAmAnubhavSaini/callback-chain-resolver.git"
+    "url": "git+https://github.com/gitfaf/callback-chain-resolver.git"
   },
   "keywords": [
     "javascript",
@@ -16,17 +16,14 @@
     "callback",
     "chain"
   ],
-  "author": "Anubhav Saini <IAmAnubhavSaini@gmail.com>",
+  "author": "Git Faf <git.faf@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/IAmAnubhavSaini/callback-chain-resolver/issues"
+    "url": "https://github.com/gitfaf/callback-chain-resolver/issues"
   },
-  "homepage": "https://github.com/IAmAnubhavSaini/callback-chain-resolver#readme",
-  "xo": {
-      "space": 4
-  },
+  "homepage": "https://github.com/gitfaf/callback-chain-resolver#readme",
   "devDependencies": {
-    "ava": "*",
-    "xo": "*"
+    "chai": "^4.1.2",
+    "jasmine": "^2.9.0"
   }
 }
