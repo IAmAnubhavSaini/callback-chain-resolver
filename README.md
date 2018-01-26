@@ -25,4 +25,4 @@ Do you have a bunch of callbacks that you want to call one after another? Well, 
 
 ## License
 
-MIT &copy;
+MIT &copy; 2016 - 2018

@@ -2,11 +2,13 @@ const expect = require('chai').expect
 const resolver = require('./index')
 
 describe('callback-chain-resolver', () => {
+
     const incrementBy1 = (x) => x + 1;
     const decrementBy1 = (x) => x - 1;
     const double = x => 2 * x
     const square = x => x * x
     const cube = x => x * square(x)
+
     it('resolver() resolves successfully', () => {
         [{
             callbackArray: [incrementBy1, incrementBy1, incrementBy1, double, square],

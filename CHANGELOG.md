@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 11
+
+- Recreated package.json, package-lock.json to resolve parsing errors.
+
 ## Version 10
 
 - Moved to ES 2017

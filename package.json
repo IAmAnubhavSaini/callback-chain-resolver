@@ -1,8 +1,8 @@
 {
   "name": "callback-chain-resolver",
-  "version": "10.0.0",
-  "description": "Calls the callbacks one after another.",
-  "main": "src/index.js",
+  "version": "11.0.0",
+  "description": "Do you have a bunch of callbacks that you want to call one after another? Well, look no further.",
+  "main": "./src/index.js",
   "scripts": {
     "test": "jasmine"
   },
@@ -11,10 +11,11 @@
     "url": "git+https://github.com/gitfaf/callback-chain-resolver.git"
   },
   "keywords": [
-    "javascript",
-    "node",
     "callback",
-    "chain"
+    "chain",
+    "resolver",
+    "callback chain resolver",
+    "lightweight middleware"
   ],
   "author": "Git Faf <git.faf@gmail.com>",
   "license": "MIT",

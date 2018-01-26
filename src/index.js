@@ -1,3 +1,3 @@
-const resolver = (initValue, callbackArr) => callbackArr.reduce((accumulated, callback) => callback(accumulated), initValue)
+const resolver = (initValue, callbacks) => callbacks.reduce((accumulated, cb) => cb(accumulated), initValue)
 
 module.exports = resolver
