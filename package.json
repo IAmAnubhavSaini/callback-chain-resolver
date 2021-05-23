@@ -1,29 +1,29 @@
 {
-  "name": "callback-chain-resolver",
-  "version": "12.0.0",
-  "description": "Do you have a bunch of callbacks that you want to call one after another? Well, look no further.",
-  "main": "./src/index.js",
-  "scripts": {
-    "test": "jasmine"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gitfaf/callback-chain-resolver.git"
-  },
-  "keywords": [
-    "callback",
-    "chain",
-    "resolver",
-    "callback chain resolver",
-    "lightweight middleware"
-  ],
-  "author": "Git Faf <git.faf@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/gitfaf/callback-chain-resolver/issues"
-  },
-  "homepage": "https://github.com/gitfaf/callback-chain-resolver#readme",
-  "devDependencies": {
-    "jasmine": "^3.7.0"
-  }
+    "name": "callback-chain-resolver",
+    "version": "12.0.0",
+    "description": "Do you have a bunch of callbacks that you want to call one after another? Well, look no further.",
+    "main": "./src/index.js",
+    "scripts": {
+        "test": "jasmine"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gitfaf/callback-chain-resolver.git"
+    },
+    "keywords": [
+        "callback",
+        "chain",
+        "resolver",
+        "callback chain resolver",
+        "lightweight middleware"
+    ],
+    "author": "Git Faf <git.faf@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/gitfaf/callback-chain-resolver/issues"
+    },
+    "homepage": "https://github.com/gitfaf/callback-chain-resolver#readme",
+    "devDependencies": {
+        "jasmine": "^3.7.0"
+    }
 }
