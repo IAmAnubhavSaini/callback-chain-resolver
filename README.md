@@ -2,6 +2,11 @@
 
 Do you have a bunch of callbacks that you want to call one after another? Well, look no further.
 
+## `main` branch
+
+We are using `main` branch. If you find `master` branch being used by authors, let us know.
+
+This closes #6.
 
 ## Usage example
 
