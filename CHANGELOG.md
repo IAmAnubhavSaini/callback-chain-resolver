@@ -1,5 +1,10 @@
 # Changelog
 
+## Version 15
+
+- Published on 2021-08-05
+- Added typedResolver function that allows only one type of functions.
+
 ## Version 12
 
 - Introduce eslint as devDependency
