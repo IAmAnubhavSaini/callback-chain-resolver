@@ -1,7 +1,7 @@
 {
     "name": "callback-chain-resolver",
-    "version": "15.0.0",
-    "description": "Do you have a bunch of callbacks that you want to call one after another? Well, look no further.",
+    "version": "16.0.0",
+    "description": "Call bunch of functions in parallel or in series, passed via an array",
     "main": "./src/index.js",
     "scripts": {
         "test": "npm run build && jasmine",
@@ -9,7 +9,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/gitfaf/callback-chain-resolver.git"
+        "url": "git+https://github.com/IAmAnubhavSaini/callback-chain-resolver.git"
     },
     "keywords": [
         "callback",
@@ -18,12 +18,12 @@
         "callback chain resolver",
         "lightweight middleware"
     ],
-    "author": "Git Faf <git.faf@gmail.com>",
+    "author": "Anubhav <iamanubhavsaini@gmail.com>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/gitfaf/callback-chain-resolver/issues"
+        "url": "https://github.com/IAmAnubhavSaini/callback-chain-resolver/issues"
     },
-    "homepage": "https://github.com/gitfaf/callback-chain-resolver#readme",
+    "homepage": "https://github.com/IAmAnubhavSaini/callback-chain-resolver#readme",
     "devDependencies": {
         "@types/jasmine": "^3.7.4",
         "@types/node": "^15.6.0",

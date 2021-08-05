@@ -1,9 +1,15 @@
 # Changelog
 
+## Version 16
+
+- Published on 2021-08-05
+- Exposes two functions `series` and `parallel`. Do exactly what you would assume them to do.
+- Removes `resolver` and `typedResolver` function.
+
 ## Version 15
 
 - Published on 2021-08-05
-- Added typedResolver function that allows only one type of functions.
+- Added typedResolver function that alFor elows only one type of functions.
 
 ## Version 12
 
